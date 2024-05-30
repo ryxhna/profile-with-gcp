@@ -1,0 +1,113 @@
+.profile .container {
+    margin: 0 76.8px 19px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Akronim';
+    font-weight: 400;
+    font-size: 96px;
+    color: #000000;
+}
+
+.profile .hello-everyone {
+    margin: 0 0.8px 81px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 5px;
+    color: #000000;
+}
+
+.profile .link-to-portofolio {
+    overflow-wrap: break-word;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: -0.3px;
+    color: #000000;
+    text-align: center;
+}
+
+.profile .ghina-desrizkymalia-zahirah {
+    margin: 0 41.6px 18px 0;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-style: italic;
+    font-weight: 400;
+    font-size: 40px;
+    color: #000000;
+}
+
+.profile .bio {
+    margin-bottom: 58px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+    color: #000000;
+}
+
+.profile .act {
+    margin-bottom: 10px;
+    display: inline-block;
+    overflow-wrap: break-word;
+    font-family: 'Inter';
+    font-weight: 400;
+    font-size: 25px;
+    letter-spacing: 0.5px;
+    color: #000000;
+}
+
+.profile .container-1 {
+    margin: 20px 0 0px 50px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+}
+
+.profile .container-2 {
+    background: #F6E6E6;
+    position: relative;
+    margin-bottom: 27px;
+    display: flex;
+    flex-direction: row;
+    padding: 37px 0 36px 45px;
+    width: 1176px;
+    box-sizing: border-box;
+}
+
+.profile .link {
+    background: #EDCACA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 25px;
+    width: 1176px;
+    box-sizing: border-box;
+}
+
+.profile .link-to-portofolio {
+    overflow-wrap: break-word;
+    font-family: 'JetBrains Mono', monospace;
+    font-weight: 500;
+    font-size: 32px;
+    letter-spacing: -0.3px;
+    color: #000000;
+    text-align: center;
+}
+
+.profile {
+    background: #FAF6F6;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-items: center;
+    padding: 146px 0 186px 0;
+    width: 1920px;
+    height: 1200px;
+    box-sizing: border-box;
+}
